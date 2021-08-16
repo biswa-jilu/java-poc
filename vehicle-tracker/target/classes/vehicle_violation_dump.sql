@@ -1,0 +1,15 @@
+violation_id,penalty_amount,penalty_done,penalty_type,vehicle_number,vehicle_type,violation_date,violation_done,vehicle_id,vehicle
+1,200,0,Signal-cross,KA01-HB-3561,4-wheeler,2018-09-10,yes,1,NULL
+2,500,0,no-seat-belt,KA01-HB-3561,4-wheeler,2018-09-10,yes,1,NULL
+3,500,1,spitting,KA01-HB-3561,4-wheeler,2018-09-11,yes,1,NULL
+4,100,0,Talking-on-mobile-during-drive,KA01-HB-3561,4-wheeler,2018-09-17,yes,1,NULL
+5,100,0,Talking-on-mobile-during-drive,KA01-HB-3562,4-wheeler,2018-09-16,yes,2,NULL
+6,100,1,Talking-on-mobile-during-drive,KA01-HB-3563,4-wheeler,2018-09-19,yes,3,NULL
+7,200,0,Signal-cross,KA01-HB-3564,4-wheeler,2018-09-19,yes,4,NULL
+8,200,0,Signal-cross,KA01-HB-3565,4-wheeler,2018-09-05,yes,5,NULL
+9,200,0,Spitting,KA01-HB-3566,4-wheeler,2018-09-05,yes,6,NULL
+10,200,0,Spitting,KA01-HB-3567,4-wheeler,2018-09-07,yes,7,NULL
+11,200,0,Spitting,KA01-HB-3568,4-wheeler,2018-09-07,yes,8,NULL
+12,200,0,Signal-cross,KA01-HB-3569,4-wheeler,2018-09-07,yes,9,NULL
+13,200,1,Spitting,KA01-HB-3570,4-wheeler,2018-09-07,yes,10,NULL
+14,200,0,Spitting,KA01-HB-3562,4-wheeler,2018-09-07,yes,2,NULL

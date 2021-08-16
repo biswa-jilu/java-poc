@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: uie32774
+Build-Jdk: 15.0.2
+Implementation-Title: email-notifer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.vehicle.tracker
+Implementation-URL: https://spring.io/projects/spring-boot/email-notifer
+Created-By: Maven Integration for Eclipse
+
